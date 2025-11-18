@@ -1,0 +1,53 @@
+Setup Notes for Reviewers
+
+These instructions outline the steps required to re-run the workflow successfully.
+
+1. Required Inputs
+A. Data File Input
+The workflow accepts multiple file formats, including:
+- CSV
+- Excel (.xlsx)
+- JSON
+- Other tabular formats supported by Opus
+Sample files have been provided in this repository if needed.
+
+B. Human Task: Email Address
+During execution, the workflow includes a Human Input node that prompts for a valid email address.
+This email will receive:
+- A regional risk summary
+- Tailored intervention plans
+- Relevant alerts and forecasts
+Please ensure the email entered is valid and accessible for verification.
+
+2. How to Run the Workflow
+  2.1 Upload the dataset into the file input node at the start of the workflow.
+  2.2 Allow the system to perform a Medical Data Relevancy Check.
+      - If the dataset is not medical-related, the workflow will follow the False branch and return an error message as the final output.
+  2.3 If the dataset is relevant, the workflow will proceed with:
+      - Standardization
+      - Cleaning and anonymization
+      - Regional categorization
+      - Risk calculations
+      - Forecasting and intervention generation
+  2.4 When the Human Task appears, enter the email address to continue.
+  2.5 The workflow will then:
+      - Generate the email summary
+      - Send the intervention and risk overview to the provided address
+      - Produce a detailed regional risk assessment report in the main output
+
+3. Expected Outputs
+If the input is medically relevant, the workflow will generate:
+- Top regional risks
+- A complete regional risk matrix
+- Forecasts and intervention plans
+- Public health alerts
+- Ethical checks and policy compliance
+- A comprehensive regional risk assessment report
+- An email sent to the specified address
+If the input is not medically relevant, the workflow will output:
+- A clear error message explaining why the data was rejected
+
+4. Notes & Considerations
+- No external credentials, APIs, or environment setup are required.
+- All processing uses built-in Opus nodes, so reviewers can run it without modification.
+- The only manual interaction required is entering the email address when prompted.
