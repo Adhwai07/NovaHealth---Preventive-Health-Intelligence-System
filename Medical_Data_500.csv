@@ -1,0 +1,501 @@
+Patient ID,Name,DOB,Diagnosis,Treatment,Regions
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0010,Emma Clark,03-10-2004,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0005,Emily Davis,1983-11-12,Depression,Counselling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY
+P0008,Grace Lee,1991-12-28,Depression,Counseling,US-NY
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0003,Alice Johnson,1976-01-08,Diabetes,Insulin,US-LA
+P0007,Sophia Martinez,1995-02-21,Back Pain,Physical therapy,US-NY
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0004,Michael Brown,1960-12-08,Hypertension,Medication,US-LA
+P0002,Jane Smith,1982-12-25,Asthma,Inhalers,US-LA
+P0001,John Doe,1998-04-29,Flu,Rest and hydration,US-LA
+P0006,David Wilson,1990-03-01,Asthma,Painkillers,US-LA
+P0009,Liam Harris,1982-03-25,Depression,Counseling,US-NY

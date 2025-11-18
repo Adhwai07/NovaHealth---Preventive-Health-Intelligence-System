@@ -1,0 +1,501 @@
+Age,Gender,Date of Survey,Q1_HealthStatus,Q3-Smoking?,Q2_ExerciseFrequency,Additional_Notes,Mental health access,Region
+58,Male,13-12-2024,Good,Yes,Rarely,Mentions healthcare access.,poor,US-NY
+25,Prefer not to say,23-07-2025,Poor,,Sometimes,Includes comments on diet.,poor,US-NY
+19,Male,21-06-2025,,Yes,Never,Mentions healthcare access.,poor,US-NY
+65,Male,7/10/2025,Fair,,Never,Mentions healthcare access.,poor,US-NY
+35,Male,20-07-2025,Excellent,Yes,Often,Includes comments on diet.,poor,US-NY
+33,Female,26-09-2025,Good,Occasionally,Never,Mentions healthcare access.,poor,US-NY
+32,Female,6/5/2025,Poor,Occasionally,Sometimes,,good,US-LA
+26,Male,27-06-2025,Fair,No,Sometimes,Includes comments on diet.,good,US-LA
+65,Female,29-03-2025,Fair,Yes,Always,Includes comments on diet.,good,US-LA
+24,Prefer not to say,26-12-2024,Good,Yes,Sometimes,Includes comments on diet.,good,US-LA
+54,Female,01-04-2023,Fair,Yes,Always,Mentions healthcare access.,good,US-NY
+56,Prefer not to say,06-06-2023,Good,Yes,Sometimes,Includes comments on diet.,poor,US-TX
+21,Prefer not to say,31-12-2025,Poor,,Often,Mentions healthcare access.,good,US-FL
+31,Female,04-11-2023,Fair,Occasionally,Occasionally,Includes comments on diet.,good,US-TX
+80,Prefer not to say,25-05-2023,Excellent,Occasionally,Occasionally,Mentions healthcare access.,poor,US-NY
+79,Male,28-10-2023,Poor,,Rarely,Includes comments on diet.,poor,US-LA
+33,Female,03-07-2024,Poor,Occasionally,Occasionally,,good,US-FL
+80,Female,28-03-2025,Excellent,,Never,Discusses exercise habits.,good,US-NY
+27,Male,06-02-2024,Excellent,No,Often,Mentions healthcare access.,poor,US-FL
+75,Prefer not to say,18-09-2024,Excellent,Yes,Often,,poor,US-FL
+25,Male,24-01-2023,Excellent,No,Occasionally,Includes comments on diet.,poor,US-FL
+48,Female,26-02-2024,Poor,Yes,Always,Mentions healthcare access.,poor,US-FL
+37,Male,29-04-2025,Good,Occasionally,Sometimes,Includes comments on diet.,good,US-LA
+64,Prefer not to say,13-02-2024,Good,Yes,Always,Includes comments on diet.,good,US-FL
+60,Prefer not to say,25-03-2025,Good,Yes,Never,Includes comments on diet.,good,US-NY
+61,Prefer not to say,22-11-2025,Poor,No,Sometimes,,good,US-FL
+62,Female,24-06-2024,Good,Yes,Rarely,,good,US-TX
+53,Male,16-03-2024,Excellent,,Often,Includes comments on diet.,poor,US-LA
+40,Male,04-02-2023,Fair,Yes,Always,,poor,US-LA
+52,Prefer not to say,28-07-2024,Poor,,Occasionally,Discusses exercise habits.,poor,US-LA
+24,Prefer not to say,22-04-2025,Poor,Occasionally,Often,,poor,US-TX
+78,Male,09-04-2023,Fair,Occasionally,Rarely,Includes comments on diet.,good,US-FL
+20,Prefer not to say,20-07-2025,Excellent,,Occasionally,Includes comments on diet.,good,US-TX
+53,Prefer not to say,10-05-2023,Good,No,Often,Mentions healthcare access.,poor,US-NY
+36,Female,28-06-2023,Good,,Sometimes,Includes comments on diet.,poor,US-NY
+47,Female,25-03-2023,Poor,No,Never,Discusses exercise habits.,good,US-TX
+48,Female,08-09-2025,Excellent,,Always,Includes comments on diet.,good,US-LA
+62,Prefer not to say,31-03-2025,Fair,No,Always,Mentions healthcare access.,good,US-TX
+48,Male,07-02-2023,Poor,No,Occasionally,Discusses exercise habits.,good,US-LA
+37,Prefer not to say,05-11-2023,Poor,Yes,Never,Mentions healthcare access.,poor,US-TX
+54,Prefer not to say,05-06-2024,Good,No,Always,Includes comments on diet.,poor,US-LA
+52,Male,24-03-2025,Fair,Yes,Always,,poor,US-NY
+65,Female,01-08-2023,Good,,Often,Discusses exercise habits.,poor,US-TX
+32,Prefer not to say,15-01-2023,Excellent,No,Never,Mentions healthcare access.,poor,US-TX
+68,Male,23-02-2024,Excellent,Occasionally,Never,Includes comments on diet.,good,US-LA
+59,Prefer not to say,27-01-2025,Fair,Occasionally,Sometimes,,good,US-NY
+69,Prefer not to say,31-05-2024,Good,Yes,Sometimes,,good,US-LA
+35,Male,16-09-2024,Excellent,Occasionally,Often,Discusses exercise habits.,poor,US-LA
+69,Male,23-07-2025,Poor,Occasionally,Sometimes,,good,US-FL
+29,Male,15-07-2023,Excellent,Occasionally,Sometimes,Discusses exercise habits.,good,US-FL
+71,Female,27-01-2023,Excellent,Occasionally,Sometimes,Mentions healthcare access.,good,US-LA
+43,Prefer not to say,27-12-2023,Poor,,Sometimes,,poor,US-TX
+70,Male,28-05-2023,Poor,Occasionally,Rarely,Mentions healthcare access.,good,US-FL
+58,Prefer not to say,18-04-2025,Poor,Yes,Always,Mentions healthcare access.,good,US-TX
+26,Male,14-09-2025,Poor,No,Often,Mentions healthcare access.,good,US-NY
+79,Female,02-01-2024,Excellent,Yes,Occasionally,Mentions healthcare access.,good,US-NY
+21,Male,31-05-2024,Good,Occasionally,Always,,good,US-TX
+23,Male,14-08-2025,Poor,No,Always,Mentions healthcare access.,poor,US-FL
+77,Prefer not to say,26-12-2023,Excellent,,Sometimes,,poor,US-TX
+43,Female,27-01-2023,Excellent,No,Rarely,,good,US-LA
+40,Male,28-12-2025,Good,,Rarely,Includes comments on diet.,poor,US-TX
+19,Male,07-07-2025,Excellent,Yes,Often,,poor,US-LA
+56,Male,30-03-2025,Good,Occasionally,Sometimes,Mentions healthcare access.,poor,US-NY
+32,Male,29-07-2025,Fair,Occasionally,Sometimes,Discusses exercise habits.,good,US-FL
+74,Prefer not to say,08-02-2023,Poor,No,Rarely,Discusses exercise habits.,good,US-NY
+31,Male,18-01-2025,Fair,Yes,Rarely,,poor,US-TX
+79,Prefer not to say,29-02-2024,Excellent,No,Always,,poor,US-TX
+76,Prefer not to say,16-04-2023,Excellent,,Often,Includes comments on diet.,good,US-FL
+31,Male,15-11-2024,Poor,Occasionally,Occasionally,,good,US-FL
+60,Female,16-10-2025,Poor,Yes,Sometimes,Includes comments on diet.,good,US-FL
+40,Male,20-11-2024,Fair,Occasionally,Occasionally,Mentions healthcare access.,good,US-NY
+29,Prefer not to say,22-03-2024,Good,,Rarely,Discusses exercise habits.,poor,US-TX
+44,Prefer not to say,06-09-2023,Excellent,No,Always,Discusses exercise habits.,good,US-NY
+36,Prefer not to say,09-08-2025,Good,Occasionally,Never,,poor,US-FL
+47,Female,20-01-2024,Poor,Yes,Never,Includes comments on diet.,good,US-LA
+26,Prefer not to say,30-04-2025,Good,Yes,Often,Includes comments on diet.,good,US-NY
+35,Prefer not to say,17-10-2023,Excellent,Occasionally,Always,Includes comments on diet.,good,US-LA
+61,Female,02-05-2023,Fair,No,Never,Mentions healthcare access.,poor,US-NY
+41,Prefer not to say,22-04-2023,Fair,Occasionally,Always,Mentions healthcare access.,poor,US-LA
+41,Prefer not to say,10-06-2023,Excellent,No,Always,Mentions healthcare access.,poor,US-NY
+55,Male,03-11-2024,Poor,No,Always,Mentions healthcare access.,poor,US-TX
+54,Female,27-03-2024,Good,,Occasionally,Discusses exercise habits.,poor,US-LA
+34,Female,05-05-2025,Poor,Yes,Rarely,Includes comments on diet.,poor,US-FL
+63,Female,20-12-2025,Poor,,Often,,poor,US-FL
+21,Male,29-07-2023,Excellent,Occasionally,Never,,poor,US-FL
+72,Prefer not to say,06-01-2024,Poor,Yes,Occasionally,Mentions healthcare access.,good,US-LA
+68,Male,22-02-2024,Excellent,,Occasionally,Mentions healthcare access.,good,US-LA
+26,Male,03-02-2024,Poor,Yes,Occasionally,Mentions healthcare access.,good,US-TX
+49,Female,10-06-2025,Fair,,Sometimes,,good,US-LA
+64,Male,24-01-2024,Poor,Occasionally,Rarely,Discusses exercise habits.,poor,US-LA
+23,Female,15-07-2025,Good,,Never,,poor,US-FL
+45,Prefer not to say,01-05-2024,Excellent,No,Occasionally,,poor,US-NY
+50,Male,13-03-2024,Poor,,Never,Includes comments on diet.,good,US-LA
+64,Female,17-09-2024,Fair,No,Never,Includes comments on diet.,good,US-FL
+19,Female,22-02-2024,Fair,,Always,Mentions healthcare access.,good,US-FL
+71,Prefer not to say,07-03-2024,Good,No,Often,Discusses exercise habits.,good,US-LA
+52,Female,25-02-2024,Good,,Often,Mentions healthcare access.,good,US-TX
+79,Prefer not to say,01-11-2025,Good,,Always,Mentions healthcare access.,good,US-NY
+75,Female,12-09-2023,Excellent,No,Rarely,Discusses exercise habits.,poor,US-NY
+56,Male,10-12-2023,Fair,Occasionally,Occasionally,Includes comments on diet.,good,US-TX
+36,Male,24-03-2023,Good,Occasionally,Rarely,Discusses exercise habits.,good,US-LA
+38,Male,14-01-2025,Poor,No,Never,Mentions healthcare access.,good,US-NY
+18,Female,08-07-2023,Excellent,,Often,,poor,US-TX
+47,Male,10-05-2025,Good,Occasionally,Never,Discusses exercise habits.,poor,US-NY
+64,Prefer not to say,07-05-2023,Excellent,,Often,Mentions healthcare access.,good,US-FL
+44,Prefer not to say,27-02-2025,Fair,,Never,Mentions healthcare access.,good,US-LA
+73,Male,30-05-2024,Poor,Occasionally,Always,Discusses exercise habits.,good,US-LA
+49,Female,23-07-2023,Fair,,Rarely,Mentions healthcare access.,good,US-TX
+72,Prefer not to say,01-03-2023,Good,No,Never,Mentions healthcare access.,poor,US-NY
+53,Male,18-08-2025,Fair,No,Often,Discusses exercise habits.,poor,US-FL
+26,Male,01-01-2024,Poor,Yes,Occasionally,Includes comments on diet.,good,US-TX
+44,Prefer not to say,08-06-2023,Excellent,Occasionally,Occasionally,Includes comments on diet.,poor,US-LA
+42,Female,17-11-2024,Fair,Yes,Occasionally,Mentions healthcare access.,good,US-FL
+62,Prefer not to say,25-09-2023,Good,,Rarely,Discusses exercise habits.,poor,US-FL
+63,Prefer not to say,03-01-2025,Poor,Occasionally,Rarely,Mentions healthcare access.,poor,US-TX
+76,Male,09-12-2025,Poor,Occasionally,Sometimes,Mentions healthcare access.,poor,US-FL
+53,Prefer not to say,08-02-2025,Poor,Occasionally,Occasionally,Mentions healthcare access.,poor,US-NY
+26,Prefer not to say,31-10-2024,Good,No,Always,Mentions healthcare access.,good,US-FL
+71,Prefer not to say,20-07-2023,Fair,No,Always,,poor,US-LA
+21,Male,04-08-2023,Excellent,No,Always,Includes comments on diet.,poor,US-NY
+44,Male,17-04-2024,Poor,No,Rarely,Mentions healthcare access.,poor,US-FL
+61,Prefer not to say,27-01-2023,Poor,,Rarely,Includes comments on diet.,poor,US-TX
+51,Prefer not to say,31-01-2025,Poor,,Occasionally,Discusses exercise habits.,poor,US-LA
+75,Male,29-06-2023,Good,Occasionally,Sometimes,Mentions healthcare access.,good,US-TX
+19,Female,02-10-2024,Poor,Occasionally,Often,,poor,US-FL
+74,Male,15-01-2024,Fair,,Never,Includes comments on diet.,poor,US-NY
+47,Female,04-11-2023,Good,Yes,Often,Discusses exercise habits.,poor,US-TX
+53,Female,28-06-2023,Fair,Occasionally,Sometimes,Mentions healthcare access.,good,US-NY
+45,Female,14-11-2024,Fair,,Rarely,Mentions healthcare access.,poor,US-FL
+37,Prefer not to say,10-07-2024,Poor,Yes,Always,,good,US-NY
+54,Female,25-12-2023,Excellent,No,Occasionally,Discusses exercise habits.,good,US-TX
+71,Prefer not to say,03-06-2025,Fair,,Rarely,Mentions healthcare access.,good,US-TX
+52,Prefer not to say,07-03-2023,Fair,Yes,Rarely,Mentions healthcare access.,poor,US-TX
+65,Female,13-08-2025,Poor,Yes,Never,,poor,US-LA
+25,Prefer not to say,12-12-2023,Good,,Occasionally,Includes comments on diet.,good,US-NY
+32,Female,31-01-2023,Good,Occasionally,Sometimes,Includes comments on diet.,poor,US-FL
+68,Prefer not to say,11-11-2025,Poor,Occasionally,Sometimes,Discusses exercise habits.,poor,US-NY
+43,Female,18-03-2023,Good,Yes,Often,Discusses exercise habits.,good,US-TX
+66,Female,23-09-2023,Poor,,Occasionally,Mentions healthcare access.,poor,US-TX
+41,Male,02-07-2023,Good,Yes,Rarely,Mentions healthcare access.,poor,US-TX
+56,Female,05-03-2025,Poor,Occasionally,Always,Discusses exercise habits.,poor,US-TX
+52,Prefer not to say,04-05-2025,Good,Yes,Occasionally,Discusses exercise habits.,poor,US-NY
+33,Female,25-02-2024,Excellent,,Sometimes,Includes comments on diet.,good,US-FL
+68,Male,25-07-2023,Fair,,Occasionally,Mentions healthcare access.,poor,US-LA
+78,Prefer not to say,05-07-2024,Excellent,,Rarely,Discusses exercise habits.,good,US-NY
+28,Prefer not to say,23-09-2023,Fair,Yes,Never,Mentions healthcare access.,good,US-NY
+37,Prefer not to say,29-04-2024,Poor,,Never,Discusses exercise habits.,good,US-LA
+34,Male,15-07-2025,Poor,,Never,Discusses exercise habits.,good,US-NY
+50,Female,13-03-2023,Poor,Occasionally,Never,,good,US-FL
+32,Female,13-06-2025,Excellent,No,Sometimes,,poor,US-FL
+45,Male,18-04-2024,Fair,,Often,Includes comments on diet.,good,US-FL
+58,Prefer not to say,12-04-2023,Good,,Occasionally,,good,US-LA
+77,Prefer not to say,28-11-2024,Excellent,,Never,Discusses exercise habits.,poor,US-NY
+41,Prefer not to say,07-02-2023,Good,Occasionally,Rarely,Discusses exercise habits.,poor,US-TX
+70,Prefer not to say,31-10-2025,Fair,Yes,Rarely,Discusses exercise habits.,good,US-FL
+76,Female,26-07-2023,Excellent,No,Often,Includes comments on diet.,poor,US-TX
+39,Prefer not to say,16-07-2024,Good,No,Occasionally,,good,US-TX
+49,Male,22-06-2023,Poor,Yes,Often,Mentions healthcare access.,good,US-FL
+78,Prefer not to say,28-07-2025,Good,Occasionally,Always,Includes comments on diet.,good,US-FL
+34,Female,14-09-2023,Excellent,Yes,Often,Discusses exercise habits.,good,US-FL
+31,Male,16-01-2023,Excellent,No,Always,Mentions healthcare access.,good,US-FL
+29,Male,06-03-2023,Excellent,No,Occasionally,Mentions healthcare access.,good,US-LA
+27,Prefer not to say,20-04-2025,Fair,No,Often,Mentions healthcare access.,good,US-FL
+64,Prefer not to say,22-06-2024,Excellent,,Often,Mentions healthcare access.,good,US-LA
+61,Female,02-02-2025,Fair,Yes,Occasionally,Mentions healthcare access.,poor,US-FL
+21,Prefer not to say,23-04-2023,Excellent,,Always,,good,US-TX
+46,Prefer not to say,26-10-2023,Poor,,Always,,good,US-NY
+80,Prefer not to say,18-03-2023,Good,No,Occasionally,Discusses exercise habits.,poor,US-FL
+43,Female,12-04-2024,Excellent,,Sometimes,,poor,US-LA
+37,Prefer not to say,10-12-2024,Excellent,Occasionally,Occasionally,Includes comments on diet.,poor,US-LA
+22,Prefer not to say,27-11-2025,Good,Yes,Always,Discusses exercise habits.,good,US-LA
+29,Male,27-01-2023,Good,Yes,Always,Mentions healthcare access.,good,US-TX
+70,Male,25-10-2025,Good,,Never,Includes comments on diet.,poor,US-TX
+27,Male,10-01-2024,Poor,Occasionally,Sometimes,Mentions healthcare access.,poor,US-LA
+61,Female,19-06-2024,Good,No,Never,Includes comments on diet.,good,US-NY
+68,Prefer not to say,24-11-2024,Poor,Occasionally,Never,Mentions healthcare access.,poor,US-LA
+57,Male,23-06-2025,Excellent,,Rarely,,good,US-LA
+32,Female,25-08-2024,Excellent,No,Rarely,Includes comments on diet.,poor,US-FL
+69,Prefer not to say,25-04-2023,Poor,No,Always,Includes comments on diet.,good,US-FL
+56,Female,21-02-2023,Excellent,Occasionally,Occasionally,Includes comments on diet.,good,US-NY
+19,Prefer not to say,23-10-2025,Poor,Yes,Rarely,Mentions healthcare access.,good,US-FL
+28,Female,22-11-2024,Poor,,Occasionally,,good,US-TX
+78,Female,04-09-2023,Excellent,Yes,Sometimes,Discusses exercise habits.,good,US-FL
+32,Prefer not to say,26-06-2023,Good,No,Sometimes,,good,US-FL
+77,Female,10-08-2025,Fair,Yes,Sometimes,Mentions healthcare access.,poor,US-LA
+38,Prefer not to say,04-08-2025,Fair,Yes,Occasionally,,good,US-FL
+19,Prefer not to say,21-10-2024,Good,,Rarely,Discusses exercise habits.,good,US-TX
+40,Prefer not to say,21-07-2023,Fair,No,Always,,poor,US-TX
+67,Prefer not to say,17-02-2025,Fair,,Never,Includes comments on diet.,good,US-LA
+44,Male,23-03-2023,Fair,Occasionally,Occasionally,Mentions healthcare access.,poor,US-FL
+61,Male,20-06-2024,Poor,Occasionally,Often,Mentions healthcare access.,poor,US-LA
+24,Male,21-12-2025,Poor,Yes,Never,Discusses exercise habits.,poor,US-FL
+56,Female,06-05-2025,Excellent,Occasionally,Rarely,Mentions healthcare access.,poor,US-NY
+71,Female,10-10-2025,Fair,,Often,,good,US-NY
+57,Female,05-06-2024,Excellent,Yes,Often,Mentions healthcare access.,good,US-TX
+29,Prefer not to say,12-09-2023,Fair,No,Occasionally,Mentions healthcare access.,good,US-NY
+38,Female,14-12-2024,Fair,Yes,Often,,good,US-FL
+21,Female,10-10-2025,Fair,,Never,Discusses exercise habits.,good,US-NY
+60,Prefer not to say,15-01-2024,Poor,Yes,Never,,poor,US-LA
+23,Prefer not to say,17-04-2025,Good,,Often,Mentions healthcare access.,poor,US-TX
+72,Female,15-07-2025,Poor,Yes,Never,Mentions healthcare access.,poor,US-TX
+64,Prefer not to say,02-09-2023,Good,No,Sometimes,Discusses exercise habits.,poor,US-TX
+45,Male,25-10-2024,Excellent,Yes,Rarely,Mentions healthcare access.,good,US-LA
+61,Prefer not to say,08-04-2024,Poor,Yes,Sometimes,Mentions healthcare access.,poor,US-TX
+74,Female,21-12-2025,Good,,Often,Discusses exercise habits.,poor,US-FL
+42,Prefer not to say,15-04-2023,Fair,,Often,,good,US-TX
+26,Male,14-09-2023,Poor,No,Occasionally,Includes comments on diet.,good,US-FL
+29,Prefer not to say,04-09-2025,Poor,Occasionally,Never,Mentions healthcare access.,poor,US-NY
+46,Prefer not to say,03-08-2025,Poor,Occasionally,Always,Includes comments on diet.,poor,US-FL
+33,Male,07-08-2024,Fair,No,Always,Includes comments on diet.,good,US-FL
+40,Female,16-06-2024,Excellent,Yes,Occasionally,Mentions healthcare access.,poor,US-LA
+74,Male,11-08-2023,Fair,No,Occasionally,,good,US-TX
+47,Male,03-05-2025,Fair,,Always,Includes comments on diet.,poor,US-TX
+39,Prefer not to say,11-10-2024,Fair,Occasionally,Rarely,,good,US-TX
+64,Female,15-10-2023,Fair,No,Sometimes,Mentions healthcare access.,good,US-NY
+27,Male,01-06-2024,Excellent,,Often,Discusses exercise habits.,good,US-FL
+56,Female,03-08-2025,Poor,,Occasionally,Mentions healthcare access.,poor,US-LA
+28,Prefer not to say,18-05-2025,Poor,No,Always,Discusses exercise habits.,poor,US-NY
+73,Prefer not to say,03-12-2024,Good,,Always,Discusses exercise habits.,good,US-FL
+42,Prefer not to say,29-01-2025,Fair,No,Sometimes,Includes comments on diet.,poor,US-NY
+20,Prefer not to say,01-05-2023,Poor,Occasionally,Never,Mentions healthcare access.,good,US-TX
+55,Male,20-08-2023,Fair,,Occasionally,Discusses exercise habits.,poor,US-FL
+56,Prefer not to say,08-07-2023,Good,Yes,Never,,good,US-NY
+41,Female,27-03-2024,Poor,Occasionally,Often,Discusses exercise habits.,good,US-LA
+36,Female,26-10-2025,Poor,Occasionally,Occasionally,Includes comments on diet.,poor,US-LA
+41,Female,29-08-2025,Excellent,,Often,,poor,US-NY
+28,Female,12-01-2025,Fair,,Rarely,Discusses exercise habits.,poor,US-TX
+68,Prefer not to say,06-01-2025,Excellent,Yes,Sometimes,Mentions healthcare access.,poor,US-NY
+68,Male,15-06-2023,Poor,No,Rarely,Includes comments on diet.,good,US-NY
+70,Prefer not to say,09-12-2024,Fair,Occasionally,Rarely,,poor,US-FL
+76,Male,13-01-2025,Good,,Occasionally,Includes comments on diet.,poor,US-FL
+79,Female,28-08-2023,Good,,Rarely,,good,US-TX
+32,Male,04-01-2024,Fair,Yes,Always,,good,US-FL
+62,Male,11-01-2024,Fair,Yes,Always,Includes comments on diet.,poor,US-LA
+57,Prefer not to say,03-02-2025,Good,,Occasionally,Includes comments on diet.,poor,US-NY
+75,Female,25-04-2024,Poor,,Sometimes,,poor,US-FL
+58,Female,20-03-2023,Good,,Occasionally,Mentions healthcare access.,poor,US-NY
+31,Male,20-03-2024,Fair,No,Sometimes,Includes comments on diet.,poor,US-NY
+34,Female,21-01-2023,Good,Occasionally,Always,Discusses exercise habits.,good,US-NY
+78,Prefer not to say,07-01-2024,Good,No,Rarely,Includes comments on diet.,poor,US-TX
+78,Female,17-02-2024,Poor,Occasionally,Rarely,Discusses exercise habits.,poor,US-LA
+26,Male,19-11-2024,Fair,Occasionally,Always,,poor,US-TX
+68,Female,31-01-2025,Good,Occasionally,Often,Discusses exercise habits.,poor,US-FL
+74,Prefer not to say,15-10-2025,Excellent,Yes,Never,,good,US-NY
+33,Male,11-09-2023,Good,No,Often,Includes comments on diet.,poor,US-FL
+69,Prefer not to say,24-01-2023,Good,No,Often,Mentions healthcare access.,good,US-LA
+74,Female,14-01-2023,Good,Occasionally,Occasionally,Mentions healthcare access.,good,US-TX
+61,Female,28-05-2023,Excellent,Yes,Occasionally,Mentions healthcare access.,poor,US-NY
+72,Prefer not to say,27-07-2025,Excellent,Occasionally,Often,Discusses exercise habits.,poor,US-LA
+47,Prefer not to say,30-12-2023,Fair,Occasionally,Always,Includes comments on diet.,good,US-FL
+78,Prefer not to say,16-12-2025,Fair,Occasionally,Never,Mentions healthcare access.,poor,US-TX
+63,Male,15-10-2023,Good,,Always,Includes comments on diet.,good,US-TX
+39,Female,20-10-2023,Poor,Occasionally,Occasionally,Mentions healthcare access.,good,US-NY
+18,Female,04-07-2023,Good,Yes,Always,Discusses exercise habits.,poor,US-NY
+64,Female,16-02-2024,Excellent,Occasionally,Never,Includes comments on diet.,good,US-TX
+79,Female,10-05-2025,Excellent,Occasionally,Sometimes,,good,US-FL
+80,Female,28-12-2024,Fair,,Never,Mentions healthcare access.,poor,US-FL
+40,Male,29-02-2024,Excellent,No,Often,Discusses exercise habits.,poor,US-LA
+68,Prefer not to say,02-06-2025,Good,,Never,Mentions healthcare access.,poor,US-NY
+20,Prefer not to say,28-06-2025,Excellent,Occasionally,Occasionally,,good,US-TX
+74,Prefer not to say,14-09-2025,Good,Yes,Sometimes,Mentions healthcare access.,poor,US-TX
+53,Male,02-04-2023,Poor,Yes,Often,Includes comments on diet.,good,US-NY
+20,Female,26-10-2024,Fair,Occasionally,Never,Mentions healthcare access.,poor,US-FL
+64,Female,11-05-2025,Good,Occasionally,Never,,poor,US-LA
+52,Prefer not to say,03-07-2024,Excellent,No,Often,Includes comments on diet.,poor,US-TX
+36,Male,09-11-2023,Good,Yes,Sometimes,,poor,US-NY
+70,Prefer not to say,08-06-2024,Poor,No,Rarely,Discusses exercise habits.,good,US-NY
+77,Prefer not to say,03-03-2024,Excellent,,Often,,good,US-TX
+73,Prefer not to say,16-06-2023,Fair,No,Rarely,Mentions healthcare access.,poor,US-LA
+44,Female,28-03-2024,Fair,,Occasionally,Includes comments on diet.,good,US-TX
+65,Male,14-02-2024,Fair,,Often,Mentions healthcare access.,good,US-TX
+64,Prefer not to say,14-11-2023,Good,,Occasionally,Mentions healthcare access.,poor,US-FL
+70,Male,04-02-2023,Poor,,Always,Mentions healthcare access.,good,US-TX
+25,Prefer not to say,18-07-2023,Excellent,No,Occasionally,,poor,US-TX
+35,Prefer not to say,09-11-2024,Fair,Yes,Never,Mentions healthcare access.,poor,US-TX
+31,Female,18-03-2024,Poor,,Occasionally,Includes comments on diet.,poor,US-LA
+79,Male,24-07-2025,Fair,No,Never,Mentions healthcare access.,poor,US-TX
+35,Male,06-10-2025,Excellent,Occasionally,Always,,good,US-TX
+48,Prefer not to say,10-07-2024,Poor,No,Sometimes,Discusses exercise habits.,poor,US-FL
+48,Female,18-09-2025,Fair,No,Often,Discusses exercise habits.,poor,US-TX
+68,Female,05-05-2025,Poor,No,Never,Mentions healthcare access.,poor,US-FL
+28,Prefer not to say,11-03-2023,Fair,Occasionally,Often,Mentions healthcare access.,poor,US-LA
+68,Male,05-06-2023,Good,Yes,Rarely,,good,US-TX
+26,Female,30-09-2024,Good,No,Occasionally,,poor,US-NY
+31,Male,08-03-2023,Poor,No,Rarely,Discusses exercise habits.,poor,US-TX
+21,Prefer not to say,24-01-2024,Good,No,Always,Discusses exercise habits.,poor,US-TX
+34,Male,03-03-2023,Good,Yes,Rarely,,good,US-FL
+61,Male,01-01-2024,Good,,Sometimes,Mentions healthcare access.,good,US-NY
+40,Prefer not to say,28-09-2023,Poor,No,Often,,poor,US-FL
+61,Male,18-07-2025,Fair,No,Sometimes,Mentions healthcare access.,good,US-TX
+63,Male,03-03-2024,Poor,No,Rarely,Mentions healthcare access.,good,US-FL
+61,Male,21-02-2024,Good,Occasionally,Sometimes,Includes comments on diet.,poor,US-LA
+62,Male,14-07-2025,Good,,Often,Mentions healthcare access.,poor,US-NY
+66,Prefer not to say,16-03-2023,Poor,Yes,Rarely,Includes comments on diet.,good,US-TX
+21,Prefer not to say,14-07-2025,Excellent,Yes,Always,Mentions healthcare access.,good,US-NY
+46,Male,30-07-2025,Fair,Yes,Always,,poor,US-FL
+24,Male,25-11-2025,Good,Occasionally,Often,Discusses exercise habits.,good,US-FL
+18,Male,19-12-2024,Excellent,No,Rarely,,poor,US-TX
+23,Female,08-06-2023,Excellent,No,Never,Includes comments on diet.,good,US-TX
+66,Female,04-04-2023,Poor,Occasionally,Often,Discusses exercise habits.,good,US-TX
+63,Female,07-11-2024,Poor,,Occasionally,,good,US-NY
+29,Prefer not to say,06-06-2024,Poor,No,Occasionally,Includes comments on diet.,poor,US-LA
+80,Female,06-08-2023,Poor,Yes,Never,Mentions healthcare access.,good,US-FL
+30,Male,15-08-2024,Fair,,Always,,good,US-TX
+37,Prefer not to say,22-08-2023,Excellent,Occasionally,Sometimes,,good,US-NY
+46,Male,13-02-2024,Good,Occasionally,Occasionally,Mentions healthcare access.,good,US-TX
+39,Prefer not to say,21-09-2023,Fair,Occasionally,Often,Mentions healthcare access.,poor,US-LA
+75,Prefer not to say,02-12-2025,Poor,No,Occasionally,Mentions healthcare access.,poor,US-LA
+71,Female,24-07-2025,Good,Yes,Often,Discusses exercise habits.,good,US-FL
+43,Male,14-02-2023,Good,No,Always,Includes comments on diet.,poor,US-TX
+56,Male,25-02-2025,Excellent,No,Never,,poor,US-LA
+77,Male,05-05-2024,Poor,Occasionally,Often,Discusses exercise habits.,poor,US-NY
+51,Male,20-02-2025,Fair,Occasionally,Rarely,Mentions healthcare access.,good,US-FL
+21,Male,23-04-2025,Poor,No,Occasionally,,good,US-TX
+68,Prefer not to say,03-05-2025,Fair,Yes,Rarely,Discusses exercise habits.,poor,US-NY
+49,Male,14-05-2024,Excellent,No,Often,Includes comments on diet.,poor,US-TX
+31,Prefer not to say,22-07-2023,Good,,Rarely,Includes comments on diet.,good,US-TX
+48,Prefer not to say,31-12-2025,Excellent,No,Never,,poor,US-FL
+53,Male,07-10-2024,Fair,Yes,Sometimes,Mentions healthcare access.,good,US-LA
+20,Female,16-07-2024,Good,,Often,,good,US-TX
+77,Female,13-01-2025,Poor,Yes,Never,,good,US-NY
+64,Prefer not to say,16-12-2025,Poor,Occasionally,Always,Mentions healthcare access.,good,US-FL
+62,Prefer not to say,30-07-2025,Good,Occasionally,Rarely,Discusses exercise habits.,poor,US-FL
+40,Female,25-12-2023,Fair,Yes,Sometimes,Mentions healthcare access.,poor,US-LA
+76,Male,07-08-2025,Fair,Occasionally,Occasionally,Discusses exercise habits.,good,US-NY
+46,Prefer not to say,07-11-2024,Fair,Yes,Often,Discusses exercise habits.,good,US-LA
+42,Prefer not to say,19-03-2023,Excellent,Occasionally,Occasionally,Mentions healthcare access.,good,US-LA
+24,Female,07-11-2023,Good,,Often,,poor,US-LA
+76,Prefer not to say,10-09-2023,Good,,Never,Includes comments on diet.,poor,US-TX
+24,Female,11-07-2023,Excellent,Occasionally,Rarely,Mentions healthcare access.,good,US-LA
+67,Male,21-08-2023,Poor,Yes,Always,,poor,US-TX
+26,Prefer not to say,15-04-2024,Good,Occasionally,Occasionally,,good,US-NY
+49,Prefer not to say,26-10-2025,Excellent,No,Occasionally,,poor,US-TX
+71,Male,22-08-2023,Good,Occasionally,Occasionally,Discusses exercise habits.,poor,US-NY
+77,Female,21-06-2025,Poor,Yes,Occasionally,Mentions healthcare access.,poor,US-LA
+59,Prefer not to say,23-02-2025,Poor,,Always,Mentions healthcare access.,poor,US-FL
+27,Female,05-05-2023,Good,Yes,Always,,good,US-NY
+33,Prefer not to say,30-03-2023,Poor,Occasionally,Always,Includes comments on diet.,poor,US-NY
+34,Male,05-07-2023,Poor,Occasionally,Never,,good,US-NY
+65,Female,30-01-2023,Fair,No,Never,Mentions healthcare access.,poor,US-NY
+69,Prefer not to say,17-03-2024,Fair,No,Occasionally,Discusses exercise habits.,poor,US-FL
+45,Male,07-09-2025,Poor,Yes,Occasionally,,poor,US-FL
+40,Prefer not to say,14-03-2024,Fair,Yes,Always,,poor,US-NY
+20,Female,26-08-2024,Fair,Yes,Sometimes,Mentions healthcare access.,poor,US-TX
+31,Male,07-03-2024,Excellent,,Never,,poor,US-LA
+80,Male,16-02-2025,Good,Occasionally,Sometimes,Discusses exercise habits.,poor,US-FL
+20,Prefer not to say,13-09-2024,Poor,,Sometimes,,poor,US-NY
+63,Female,10-11-2025,Poor,Yes,Never,Includes comments on diet.,good,US-LA
+45,Prefer not to say,31-08-2025,Fair,No,Always,Mentions healthcare access.,poor,US-FL
+55,Female,27-02-2023,Fair,Yes,Never,Mentions healthcare access.,good,US-TX
+35,Male,27-01-2025,Excellent,,Never,Mentions healthcare access.,poor,US-TX
+58,Female,26-11-2025,Good,No,Rarely,Mentions healthcare access.,good,US-TX
+19,Female,16-08-2025,Excellent,No,Sometimes,Discusses exercise habits.,poor,US-FL
+61,Male,17-10-2023,Fair,Yes,Often,Mentions healthcare access.,poor,US-TX
+73,Prefer not to say,20-05-2024,Good,Occasionally,Sometimes,Includes comments on diet.,poor,US-LA
+74,Prefer not to say,03-06-2023,Excellent,No,Rarely,,poor,US-NY
+21,Prefer not to say,15-04-2025,Poor,Occasionally,Occasionally,Discusses exercise habits.,good,US-FL
+49,Prefer not to say,24-02-2024,Good,Occasionally,Rarely,Discusses exercise habits.,good,US-LA
+53,Prefer not to say,01-06-2025,Excellent,,Never,Mentions healthcare access.,poor,US-FL
+55,Male,02-10-2024,Poor,Yes,Never,Discusses exercise habits.,poor,US-TX
+45,Male,17-08-2023,Good,Yes,Always,Discusses exercise habits.,good,US-TX
+20,Male,20-05-2023,Poor,Occasionally,Sometimes,Mentions healthcare access.,good,US-TX
+23,Male,14-04-2024,Poor,Occasionally,Sometimes,Includes comments on diet.,good,US-LA
+34,Female,08-12-2024,Poor,Occasionally,Never,Discusses exercise habits.,poor,US-NY
+44,Female,03-01-2026,Excellent,No,Always,Discusses exercise habits.,poor,US-FL
+58,Prefer not to say,19-06-2025,Poor,Yes,Always,,good,US-NY
+75,Female,22-09-2023,Poor,No,Always,Discusses exercise habits.,good,US-NY
+31,Male,04-12-2023,Poor,Yes,Rarely,Discusses exercise habits.,good,US-FL
+47,Male,30-06-2025,Fair,Yes,Sometimes,,good,US-LA
+45,Prefer not to say,02-08-2024,Excellent,,Rarely,Includes comments on diet.,good,US-TX
+48,Female,02-03-2024,Excellent,Yes,Sometimes,,poor,US-NY
+71,Prefer not to say,05-08-2024,Fair,,Always,,poor,US-LA
+59,Female,04-05-2023,Good,Occasionally,Rarely,,poor,US-NY
+73,Male,03-01-2024,Good,Occasionally,Occasionally,,good,US-FL
+25,Prefer not to say,21-10-2025,Good,,Occasionally,,good,US-LA
+58,Female,02-09-2024,Good,Yes,Never,Mentions healthcare access.,good,US-LA
+58,Male,29-07-2024,Poor,Occasionally,Rarely,,good,US-FL
+27,Female,04-08-2023,Excellent,Yes,Always,,poor,US-TX
+73,Male,06-07-2025,Good,No,Often,Mentions healthcare access.,good,US-FL
+27,Male,21-02-2023,Fair,,Sometimes,Includes comments on diet.,good,US-FL
+34,Male,20-09-2024,Excellent,,Sometimes,Includes comments on diet.,good,US-LA
+39,Female,14-03-2023,Poor,,Often,Includes comments on diet.,good,US-TX
+46,Prefer not to say,30-06-2023,Fair,,Never,Discusses exercise habits.,poor,US-FL
+55,Female,12-09-2023,Poor,Occasionally,Rarely,,poor,US-NY
+54,Male,29-10-2025,Poor,,Occasionally,Discusses exercise habits.,poor,US-TX
+24,Prefer not to say,12-02-2024,Poor,,Always,,good,US-TX
+69,Male,04-10-2025,Poor,No,Always,,good,US-NY
+70,Male,24-01-2024,Fair,Yes,Sometimes,,good,US-NY
+65,Prefer not to say,24-05-2023,Poor,,Always,Discusses exercise habits.,poor,US-FL
+39,Male,26-10-2025,Poor,,Sometimes,Includes comments on diet.,good,US-LA
+45,Female,25-01-2023,Poor,Occasionally,Always,,good,US-TX
+60,Prefer not to say,04-12-2025,Excellent,No,Occasionally,Includes comments on diet.,good,US-NY
+42,Prefer not to say,04-04-2024,Fair,,Occasionally,Mentions healthcare access.,poor,US-NY
+19,Female,12-09-2024,Excellent,Occasionally,Never,Discusses exercise habits.,poor,US-NY
+35,Female,20-07-2023,Excellent,No,Always,Includes comments on diet.,poor,US-LA
+26,Prefer not to say,03-01-2024,Excellent,,Rarely,Includes comments on diet.,poor,US-LA
+59,Male,02-02-2025,Poor,No,Occasionally,,good,US-LA
+35,Male,14-01-2023,Excellent,Occasionally,Occasionally,Mentions healthcare access.,good,US-TX
+28,Male,21-04-2024,Fair,Occasionally,Occasionally,Mentions healthcare access.,good,US-LA
+32,Prefer not to say,05-11-2024,Poor,Occasionally,Always,Includes comments on diet.,poor,US-FL
+64,Female,21-06-2024,Excellent,Yes,Never,Mentions healthcare access.,good,US-TX
+69,Prefer not to say,09-08-2024,Fair,No,Sometimes,,good,US-NY
+66,Female,30-05-2023,Fair,Occasionally,Sometimes,Discusses exercise habits.,good,US-TX
+39,Prefer not to say,08-05-2024,Excellent,,Never,Discusses exercise habits.,poor,US-TX
+49,Female,01-01-2023,Poor,Yes,Never,,poor,US-LA
+54,Prefer not to say,28-09-2025,Good,No,Never,Mentions healthcare access.,poor,US-TX
+27,Prefer not to say,13-05-2024,Excellent,,Rarely,Discusses exercise habits.,poor,US-NY
+28,Male,17-01-2024,Fair,,Often,Includes comments on diet.,poor,US-LA
+56,Prefer not to say,22-07-2025,Fair,Occasionally,Sometimes,Mentions healthcare access.,good,US-TX
+56,Female,23-11-2023,Excellent,,Rarely,Includes comments on diet.,good,US-TX
+59,Female,22-02-2024,Poor,No,Often,,good,US-FL
+75,Prefer not to say,31-12-2023,Excellent,,Often,,poor,US-NY
+57,Prefer not to say,15-01-2024,Good,Yes,Rarely,,good,US-FL
+76,Female,02-04-2024,Fair,,Never,Includes comments on diet.,poor,US-TX
+77,Male,20-06-2024,Fair,Occasionally,Often,Discusses exercise habits.,good,US-NY
+68,Female,23-12-2024,Fair,Yes,Sometimes,Includes comments on diet.,good,US-TX
+20,Female,16-01-2024,Fair,,Never,Mentions healthcare access.,poor,US-FL
+62,Male,19-08-2023,Excellent,Occasionally,Always,,poor,US-FL
+47,Prefer not to say,19-12-2024,Good,Yes,Never,,poor,US-FL
+28,Male,10-02-2025,Fair,,Rarely,Mentions healthcare access.,poor,US-NY
+72,Male,21-07-2024,Good,Occasionally,Often,Mentions healthcare access.,good,US-NY
+26,Male,12-08-2024,Poor,No,Sometimes,Discusses exercise habits.,good,US-FL
+60,Female,06-09-2025,Poor,Yes,Never,,poor,US-NY
+35,Male,14-01-2023,Poor,,Occasionally,Mentions healthcare access.,good,US-FL
+18,Male,20-02-2024,Good,No,Rarely,Discusses exercise habits.,good,US-FL
+21,Male,20-09-2025,Fair,,Always,Includes comments on diet.,good,US-LA
+72,Prefer not to say,28-03-2024,Excellent,Yes,Often,Discusses exercise habits.,good,US-TX
+29,Male,02-08-2024,Good,,Often,Discusses exercise habits.,good,US-NY
+40,Female,21-05-2025,Poor,,Never,Includes comments on diet.,poor,US-NY
+62,Female,22-01-2025,Fair,Occasionally,Never,Discusses exercise habits.,poor,US-FL
+77,Male,01-01-2024,Fair,No,Occasionally,Mentions healthcare access.,poor,US-FL
+71,Female,27-07-2024,Poor,No,Often,Includes comments on diet.,poor,US-TX
+79,Male,04-02-2025,Fair,No,Never,Mentions healthcare access.,good,US-FL
+31,Prefer not to say,24-05-2025,Fair,Yes,Sometimes,Mentions healthcare access.,poor,US-LA
+65,Prefer not to say,08-09-2024,Poor,Yes,Often,Mentions healthcare access.,poor,US-NY
+24,Male,20-09-2024,Excellent,,Always,,good,US-FL
+28,Male,13-05-2024,Good,No,Always,,poor,US-TX
+75,Female,12-06-2023,Good,Yes,Occasionally,Includes comments on diet.,good,US-FL
+60,Prefer not to say,24-04-2023,Poor,,Never,Discusses exercise habits.,good,US-NY
+32,Female,21-09-2025,Excellent,No,Occasionally,Includes comments on diet.,poor,US-FL
+48,Prefer not to say,14-06-2024,Excellent,No,Always,,poor,US-NY
+73,Female,28-02-2023,Excellent,Yes,Sometimes,Mentions healthcare access.,poor,US-LA
+48,Male,19-09-2025,Fair,Occasionally,Rarely,Discusses exercise habits.,poor,US-NY
+69,Female,26-06-2024,Good,No,Rarely,Mentions healthcare access.,good,US-TX
+66,Prefer not to say,17-08-2025,Fair,Occasionally,Often,Mentions healthcare access.,poor,US-NY
+25,Prefer not to say,31-03-2024,Fair,Occasionally,Sometimes,Discusses exercise habits.,poor,US-TX
+62,Prefer not to say,26-12-2024,Fair,Occasionally,Rarely,,good,US-LA
+25,Male,29-11-2025,Good,,Often,Mentions healthcare access.,good,US-FL
+37,Male,01-04-2024,Excellent,Yes,Sometimes,Includes comments on diet.,poor,US-NY
+24,Male,26-12-2025,Excellent,Yes,Rarely,Includes comments on diet.,good,US-TX
+62,Female,03-12-2024,Poor,Occasionally,Rarely,Mentions healthcare access.,poor,US-FL
+39,Female,03-12-2025,Fair,Yes,Sometimes,Includes comments on diet.,poor,US-FL
+48,Female,10-06-2025,Poor,No,Rarely,Includes comments on diet.,poor,US-NY
+21,Female,25-06-2025,Good,No,Rarely,Includes comments on diet.,poor,US-TX
+75,Prefer not to say,13-09-2025,Poor,,Sometimes,Includes comments on diet.,good,US-NY
+19,Female,03-08-2025,Excellent,No,Never,Discusses exercise habits.,poor,US-LA
+63,Male,24-01-2025,Fair,No,Never,Discusses exercise habits.,good,US-LA
+32,Prefer not to say,12-06-2023,Excellent,No,Sometimes,Includes comments on diet.,good,US-TX
+27,Prefer not to say,08-06-2024,Fair,Yes,Always,Discusses exercise habits.,poor,US-FL
+32,Female,14-11-2025,Fair,Occasionally,Occasionally,Includes comments on diet.,good,US-TX
+23,Prefer not to say,27-12-2025,Fair,,Often,,good,US-NY
+77,Prefer not to say,02-09-2024,Poor,Yes,Rarely,Includes comments on diet.,good,US-LA
+23,Female,31-08-2024,Excellent,No,Occasionally,Discusses exercise habits.,poor,US-NY
+72,Prefer not to say,17-05-2023,Fair,Yes,Often,Discusses exercise habits.,poor,US-FL
+56,Prefer not to say,11-06-2023,Fair,,Often,,good,US-FL
+66,Prefer not to say,20-11-2023,Poor,,Sometimes,,poor,US-NY
+75,Prefer not to say,23-01-2025,Good,Yes,Rarely,Includes comments on diet.,poor,US-FL
+71,Female,13-06-2025,Excellent,Yes,Sometimes,,good,US-LA
+49,Female,21-01-2025,Poor,Occasionally,Never,,poor,US-LA
+24,Prefer not to say,13-02-2023,Excellent,,Occasionally,,poor,US-NY
+57,Female,19-08-2024,Poor,,Always,Discusses exercise habits.,good,US-LA
+72,Prefer not to say,30-11-2023,Poor,Yes,Always,Discusses exercise habits.,poor,US-FL
+76,Female,22-09-2025,Poor,,Sometimes,,good,US-FL
+23,Prefer not to say,23-11-2024,Fair,Occasionally,Never,Includes comments on diet.,good,US-FL
+24,Male,04-01-2025,Poor,Yes,Often,Mentions healthcare access.,poor,US-TX
+65,Female,11-07-2023,Poor,Yes,Often,,good,US-TX
+54,Male,07-04-2025,Fair,Yes,Never,Discusses exercise habits.,good,US-FL
+18,Prefer not to say,12-08-2023,Excellent,Occasionally,Always,Mentions healthcare access.,good,US-TX
+53,Female,17-06-2024,Fair,Yes,Always,Includes comments on diet.,good,US-FL
+66,Prefer not to say,10-02-2025,Fair,No,Never,Includes comments on diet.,good,US-NY
+62,Prefer not to say,22-11-2024,Fair,No,Sometimes,Includes comments on diet.,good,US-TX
+74,Prefer not to say,29-01-2023,Poor,No,Never,Discusses exercise habits.,poor,US-NY
+77,Female,19-08-2025,Fair,No,Never,Discusses exercise habits.,good,US-NY
+39,Male,07-10-2024,Excellent,No,Never,Discusses exercise habits.,good,US-NY
+30,Prefer not to say,23-06-2023,Excellent,Yes,Sometimes,Discusses exercise habits.,good,US-LA
+18,Female,30-03-2024,Excellent,,Occasionally,,poor,US-NY
+43,Female,11-11-2025,Poor,Occasionally,Never,Includes comments on diet.,poor,US-FL
+35,Prefer not to say,04-01-2026,Poor,No,Always,,good,US-FL
+67,Prefer not to say,18-08-2025,Fair,Occasionally,Sometimes,Discusses exercise habits.,poor,US-LA
+66,Female,26-02-2025,Good,Yes,Never,,poor,US-FL
+53,Prefer not to say,06-10-2024,Good,Yes,Always,Includes comments on diet.,poor,US-NY
+52,Prefer not to say,05-04-2024,Poor,Occasionally,Often,,good,US-FL
+50,Prefer not to say,25-02-2025,Poor,Yes,Sometimes,,good,US-FL
+20,Prefer not to say,16-02-2025,Excellent,Yes,Often,,good,US-NY
+30,Male,01-12-2024,Excellent,No,Often,Discusses exercise habits.,poor,US-TX
+75,Male,18-10-2023,Fair,No,Always,,poor,US-LA
+24,Male,22-03-2025,Poor,Yes,Never,Mentions healthcare access.,poor,US-FL
+34,Prefer not to say,12-02-2023,Excellent,Yes,Occasionally,Includes comments on diet.,good,US-NY
+50,Prefer not to say,26-07-2023,Fair,,Never,Discusses exercise habits.,good,US-LA
+69,Prefer not to say,08-06-2025,Fair,Occasionally,Rarely,Mentions healthcare access.,poor,US-TX
