@@ -1,6 +1,8 @@
 # NovaHealth---Preventive-Health-Intelligence-System
 A system that cleans and analyzes medical, pharmaceutical, survey and environment data to predict regional health risks and generate alerts and interventional plans for better preventive healthcare.
 
+Opus Workflow Link: https://app.opus.com/app/workflow/share/5df13efc-2cc5-47ed-94bc-6f0adf44c8a0
+
 ## Workflow Logic
 ### 1. File Input
 Accepts CSV, Excel, or other tabular formats containing medical data such as diseases, risk indicators, region codes, and time-based case counts.
